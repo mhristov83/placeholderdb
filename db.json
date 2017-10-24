@@ -25,5 +25,8 @@
       "id":5,
       "studio":"Firaxis"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
