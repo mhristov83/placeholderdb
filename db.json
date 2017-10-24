@@ -1,0 +1,29 @@
+{
+  games:[
+    {
+      "name":"Football Manager",
+      "id":1,
+      "studio":"Sports Interactive"
+    },
+    {
+      "name":"Total War: Warhammer",
+      "id":2,
+      "studio":"Creative Assembly"
+    },
+    {
+      "name":"Mass Effect",
+      "id":3,
+      "studio":"Bioware"
+    },
+    {
+      "name":"Civilization VI",
+      "id":4,
+      "studio":"Firaxis"
+    },
+    {
+      "name":"Civilization V",
+      "id":5,
+      "studio":"Firaxis"
+    }
+  ]
+}
